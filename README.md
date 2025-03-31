@@ -23,7 +23,7 @@ We express our sincere gratitude to our faculty members for their guidance and s
 
 ---
 ## Project Title  
-**Education Online Course Categorization Using Natural Language Processing** 
+**Legal Text Classification Using Natural Language Processing** 
 
 ## Project Abstract  
 The **Legal Text Classification** project aims to automatically categorize legal documents into different domains such as **Criminal Law, Civil Law, Constitutional Law, Family Law, and more**.  
@@ -55,13 +55,13 @@ A comparative study was conducted to analyze the effectiveness of different mode
 
 | Model Type  | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |------------|-------------|--------------|------------|--------------|
-| Logistic Regression | 80.2 | 78.9 | 81.5 | 80.1 |
-| SVM (Support Vector Machine) | 83.1 | 81.7 | 85.0 | 83.3 |
-| Random Forest | 85.8 | 84.5 | 87.2 | 85.9 |
-| CNN (Convolutional Neural Networks) | 89.4 | 88.0 | 90.5 | 89.2 |
-| RNN (Recurrent Neural Networks) | 87.6 | 86.2 | 89.0 | 87.5 |
-| LSTM (Long Short-Term Memory) | 91.0 | 90.3 | 92.5 | 91.3 |
-| BERT (Bidirectional Encoder Representations from Transformers) | 95.2 | 94.5 | 96.0 | 95.2 |
+| Logistic Regression | 50.2 | 55.9 | 55 | 48 |
+| SVM (Support Vector Machine) | 49 | 45 | 49 | 38.45 |
+| Random Forest | 55.5 | 57.3 | 55.5 | 47.02 |
+| CNN (Convolutional Neural Networks) | 99.9 | 99.9 | 99.9 | 99.9 |
+| LSTM (Long Short-Term Memory) | 57.0 | 54.0 | 57.0 | 58.0 |
+| BERT (Bidirectional Encoder Representations from Transformers) | 99.9 | 99.9 | 99.9 | 99.9 |
+| RoBERTa (Robustly Optimized BERT Approach) | 99.9 | 99.9 | 99.9 | 99.9 |
 
 ---
 
