@@ -22,6 +22,8 @@ We express our sincere gratitude to our faculty members for their guidance and s
 - Shubhangi Chavan  
 
 ---
+## Project Title  
+**Education Online Course Categorization Using Natural Language Processing** 
 
 ## Project Abstract  
 The **Legal Text Classification** project aims to automatically categorize legal documents into different domains such as **Criminal Law, Civil Law, Constitutional Law, Family Law, and more**.  
